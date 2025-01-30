@@ -34,12 +34,13 @@ console.log(typeof(country)) // undefined
 
 // 5. null
 let weather = null;
-console.log(typeof weather);
+console.log(typeof weather); // object
 
 
 
 // 6. Array
 let colors = ['Red', 'blue', 'yellow', 'white']
+let nums = [2,4,6,8,10]
 console.log(colors);
 console.log(typeof colors) // object
 

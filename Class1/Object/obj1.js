@@ -19,7 +19,7 @@ console.log(students.course) // Javaript
 
 // 2. Square Notation method
 console.log('______________________');
-console.log(students['city','age', 'name']);
+console.log(students['name']);
 
 
 

@@ -4,7 +4,7 @@ let cities = ['Karachi', 'Lahore', 'hyderabad', 'Sialkot', 'Islamabad']
 console.log(cities)
 
 //  push : add new element at ending position
-cities.push('Rawalpindi' )
+cities.push('Rawalpindi', 'Peshawer' )
 console.log(cities) //
 
 
